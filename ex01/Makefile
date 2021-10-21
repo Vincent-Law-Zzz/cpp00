@@ -3,7 +3,7 @@ NAME = phonebook
 
 STD = -std=c++98
 
-SOURCE_FILES =	main.cpp face.cpp
+SOURCE_FILES =	main.cpp Contact.cpp Phonebook.cpp
 
 SRC = $(SOURCE_FILES)
 
